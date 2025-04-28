@@ -47,8 +47,8 @@ It supports creating new books and querying books from an in-memory **H2 databas
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/athrocks/GraphQL-SpringBoot-Project.git
-cd GraphQL-SpringBoot-Project
+git clone https://github.com/athrocks/GraphQL-SpringBoot.git
+cd GraphQL-SpringBoot
 ```
 
 2. **Run the Application**
